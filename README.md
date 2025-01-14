@@ -1,4 +1,4 @@
-<a href="https://github.com/AbdelrahmanMohamed54">
+<a href="https://github.com/m3rk-k">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif" alt="Banner" style="width: 100%;">
 </a>
 
@@ -11,7 +11,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/m3rk-k/m3rk-k/edit/main/README.md">My_Profile</a></li>
+        <li>🔭 I’m currently working on <a href="https://github.com/m3rk-k">My_Profile</a></li>
         <li>🌱 I’m currently learning <strong>Python</strong></li>
         <li>👯 I’m looking to collaborate on <strong>projects related to AI</strong></li>
         <li>👨‍💻 My projects: <a href="https://github.com/m3rk-k">https://github.com/m3rk-k</a></li>
